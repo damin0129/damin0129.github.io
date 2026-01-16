@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I'm Damin Kim.  
 I'm a M.S. student in **Immersive Media Engineering** at Sungkyunkwan University (SKKU), Seoul, Republic of Korea, and a member of the SWLab led by Prof. Moohong Min.  
-I have interest in **LLM jailbreak**, **AI security**, and **educational technology**.
+I have interest in **LLM jailbreak**, **AI security**, and **EdTech**.
 
 Education
 ======
